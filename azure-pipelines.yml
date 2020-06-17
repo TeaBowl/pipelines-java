@@ -15,4 +15,5 @@ steps:
    
    echo 'Hello world'
    sudo apt upgrade
+   ls ./
   displayName: 'Bash Script'
